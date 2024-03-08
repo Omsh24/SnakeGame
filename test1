@@ -1,0 +1,10 @@
+import turtle
+import time
+from random import randint
+
+wn = turtle.Screen()
+wn.title("Snake by Om")
+wn.bgcolor("black")
+wn.setup(width=800, height=800)
+wn.tracer(0)
+
